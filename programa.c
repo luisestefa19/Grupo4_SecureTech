@@ -5,5 +5,5 @@ printf("Creación de la rama de desarrollo Dashboard con métricas");
 printf("Creación de rama de Filtros por ubicación y estado");
 printf("Creación de la rama de desarrollo Reutilización de configuraciones previas");
 printf("Creacion de la rama de desarrollo: Timeline de alertas");
-
+printf("Creación de la rama de desarrollo Severidad de Alertas");
 
